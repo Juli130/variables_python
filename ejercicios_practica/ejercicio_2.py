@@ -27,9 +27,14 @@ numero_2 = int(input())
 # NOTA: No coloque usted los nùmeros y resultados, use las variables
 
 # Suma
-
+suma = numero_1 + numero_2
+print("la suma de los dos numeros es igual a:", suma)
 # Resta
-
+resta= numero_1 - numero_2
+print ("la resta de los dos numeros es igual a:", resta)
 # División
-
+division = numero_1 / numero_2
+print ("la division de los dos numeros es igual a:", division)
 # Multiplicación
+multiplicacion = numero_1 * numero_2
+print("la multiplicacion de los dos numeros es igual a:", multiplicacion)
